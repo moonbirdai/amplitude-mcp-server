@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/moonbirdai-amplitude-mcp-server-badge.png)](https://mseep.ai/app/moonbirdai-amplitude-mcp-server)
+
 # Amplitude MCP Server
 
 A [Model Context Protocol (MCP)](https://modelcontextprotocol.io) server for integrating Amplitude analytics into AI workflows. This server allows AI assistants like Claude to track events, page views, user signups, set user properties, and track revenue in Amplitude.
